@@ -1,6 +1,7 @@
-# DevelopingDataProducts
-Coursera Project
-The directory contains the Ui.R and Server.R, developed as part of the coursera course project. 
+# Developing Data Products  Project
+
+
+This directory contains the Ui.R and Server.R, developed as part of the coursera course project. 
 
 This is a simple application and it uses the Mtcars dataset that ships with R.
 
@@ -14,7 +15,7 @@ The user can select the number of cylinder they wish to see when plotting the mp
 
 There are four cholces
 
- 4 , 6,8 and All. 
+ 4, 6,8 and All. 
  
  The "All" option selects all the cylinders.
  
